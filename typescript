@@ -1,0 +1,98 @@
+Script started on Wed Jul 21 23:51:00 2010
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [KC 
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Kggit status
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	[31mmodified:   config/routes.rb[m
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	[31mapp/controllers/microposts_controller.rb[m
+#	[31mapp/controllers/users_controller.rb[m
+#	[31mapp/helpers/microposts_helper.rb[m
+#	[31mapp/helpers/users_helper.rb[m
+#	[31mapp/models/[m
+#	[31mapp/views/microposts/[m
+#	[31mapp/views/users/[m
+#	[31mconfig/.routes.rb.swp[m
+#	[31mdb/migrate/[m
+#	[31mdb/schema.rb[m
+#	[31mpublic/stylesheets/scaffold.css[m
+#	[31mtest/fixtures/[m
+#	[31mtest/functional/[m
+#	[31mtest/unit/[m
+#	[31mtypescript[m
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Kggit remote add origin git@githb ub.com/ :la00mariposa/demo_app.git
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Kggit push origin master
+Counting objects: 62, done.
+Delta compression using up to 2 threads.
+Compressing objects:   2% (1/47)   Compressing objects:   4% (2/47)   Compressing objects:   6% (3/47)   Compressing objects:   8% (4/47)   Compressing objects:  10% (5/47)   Compressing objects:  12% (6/47)   Compressing objects:  14% (7/47)   Compressing objects:  17% (8/47)   Compressing objects:  19% (9/47)   Compressing objects:  21% (10/47)   Compressing objects:  23% (11/47)   Compressing objects:  25% (12/47)   Compressing objects:  27% (13/47)   Compressing objects:  29% (14/47)   Compressing objects:  31% (15/47)   Compressing objects:  34% (16/47)   Compressing objects:  36% (17/47)   Compressing objects:  38% (18/47)   Compressing objects:  40% (19/47)   Compressing objects:  42% (20/47)   Compressing objects:  44% (21/47)   Compressing objects:  46% (22/47)   Compressing objects:  48% (23/47)   Compressing objects:  51% (24/47)   Compressing objects:  53% (25/47)   Compressing objects:  55% (26/47)   Compressing objects:  57% (27/47)   Compressing objects:  59% (28/47)   Compressing objects:  61% (29/47)   Compressing objects:  63% (30/47)   Compressing objects:  65% (31/47)   Compressing objects:  68% (32/47)   Compressing objects:  70% (33/47)   Compressing objects:  72% (34/47)   Compressing objects:  74% (35/47)   Compressing objects:  76% (36/47)   Compressing objects:  78% (37/47)   Compressing objects:  80% (38/47)   Compressing objects:  82% (39/47)   Compressing objects:  85% (40/47)   Compressing objects:  87% (41/47)   Compressing oiposa/demo_app.git
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Kggit push origin master
+Counting objects: 62, done.
+Delta compression using up to 2 threads.
+Compressing objects:   2% (1/47)   Compressing objects:   4% (2/47)   Compressing objects:   6% (3/47)   Compressing objects:   8% (4/47)   Compressing objects:  10% (5/47)   Compressing objects:  12% (6/47)   Compressing objects:  14% (7/47)   Compressing objects:  17% (8/47)   Compressing objects:  19% (9/47)   Compressing objects:  21% (10/47)   Compressing objects:  23% (11/47)   Compressing objects:  25% (12/47)   Compressing objects:  27% (13/47)   Compressing objects:  29% (14/47)   Compressing objects:  31% (15/47)   Compressing objects:  34% (16/47)   Compressing objects:  36% (17/47)   Compressing objects:  38% (18/47)   Compressing objects:  40% (19/47)   Compressing objects:  42% (20/47)   Compressing objects:  44% (21/47)   Compressing objects:  46% (22/47)   Compressing objects:  48% (23/47)   Compressing objects:  51% (24/47)   Compressing objects:  53% (25/47)   Compressing objects:  55% (26/47)   Compressing objects:  57% (27/47)   Compressing objects:  59% (28/47)   Compressing objects:  61% (29/47)   Compressing objects:  63% (30/47)   Compressing objects:  65% (31/47)   Compressing objects:  68% (32/47)   Compressing objects:  70% (33/47)   Compressing objects:  72% (34/47)   Compressing objects:  74% (35/47)   Compressing objects:  76% (36/47)   Compressing objects:  78% (37/47)   Compressing objects:  80% (38/47)   Compressing objects:  82% (39/47)   Compressing objects:  85% (40/47)   Compressing objects:  87% (41/47)   Compressing objects:  89% (42/47)   Compressing objects:  91% (43/47)   Compressing objects:  93% (44/47)   Compressing objects:  95% (45/47)   Compressing objects:  97% (46/47)   Compressing objects: 100% (47/47)   Compressing objects: 100% (47/47), done.
+Writing objects:   1% (1/62)   Writing objects:   3% (2/62)   Writing objects:   4% (3/62)  Writing objects:  98% (61/62)   Writing objects: 100% (62/62)   Writing objects: 100% (62/62), 80.20 KiB, done.
+Total 62 (delta 2), reused 0 (delta 0)
+To git@github.com:la00mariposa/demo_app.git
+ * [new branch]      master -> master
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Ksserver
+zsh: command not found: server
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [K
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Ksserver
+zsh: command not found: server
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [K
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [K
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Kc
+zsh: command not found: c
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [K
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Ksserver
+zsh: command not found: server
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Kccat server
+cat: server: No such file or directory
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Kccd demo_app/
+cd:cd:10: no such file or directory: demo_app/
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Ksserver
+zsh: command not found: server
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Ksscript/server
+zsh: no such file or directory: script/server
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Kmman
+What manual page do you want?
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Kc
+zsh: command not found: c
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Kc
+zsh: command not found: c
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Kmman  m  hhelp quit
+zsh: command not found: help
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [K
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [K
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [K
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Kœ
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [K
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Khhe; lp
+zsh: command not found: help
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Keexit
+
+Script done on Thu Jul 22 00:28:34 2010
+uilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Kmman  m  hhelp quit
+zsh: command not found: help
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [K
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [K
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [K
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Kœ
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [K
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Khhe; lp
+zsh: command not found: help
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Keexit
+
+Script done, output file is typescript
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [Kc
+zsh: command not found: c
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [KC
+zsh: command not found: C
+[1m[7m%[m[1m[m                                                                                                                                                    [m[m[m[JLAguilar@ASD-MacBook-3:~/rails_projects/demo_app/ > [K
+Script done on Thu Jul 22 00:29:00 2010
